@@ -46,7 +46,9 @@ const Sidebar = ({ user }: SiderbarProps) => {
             </Link>
           );
         })}
+        {/* TODO: User Data needs to be displayed */}
       </nav>
+      {/* TODO: Add Footer once Created */}
     </section>
   );
 };
